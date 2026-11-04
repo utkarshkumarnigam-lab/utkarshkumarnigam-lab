@@ -152,18 +152,6 @@ A fast-paced, neon-themed endless runner built with React and the Web Audio API 
 
 ---
 
-<!-- Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=utkarshkumarnigam-lab&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshkumarnigam-lab&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="165" alt="Top Languages" />
-</p>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=utkarshkumarnigam-lab&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-</div>
-
----
-
 <div align="center">
   <b><i>"Turning ideas into intelligent systems, one commit at a time."</i></b>
   <br/><br/>
