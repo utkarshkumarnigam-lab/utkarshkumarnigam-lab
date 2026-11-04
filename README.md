@@ -15,12 +15,62 @@
       <a href="https://github.com/utkarshkumarnigam-lab">
         <img src="https://img.shields.io/badge/Follow_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
       </a>
+      <a href="https://utkarshkumarnigam-lab.github.io">
+        <img src="https://img.shields.io/badge/Portfolio-f2f2f2?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" />
+      </a>
     </td>
     <td width="35%" valign="middle" align="center" style="border: none;">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius:12px;" alt="Coding gif" />
     </td>
   </tr>
 </table>
+
+---
+
+<!-- Portfolio showcase -->
+<h2 align="center">🌐 My Portfolio</h2>
+
+<p align="center">
+  <a href="https://utkarshkumarnigam-lab.github.io">
+    <img src="assets/portfolio/hero.gif" width="100%" alt="Portfolio hero: an ASCII wave field that ripples around the cursor, behind the name Utkarsh Kumar Nigam" />
+  </a>
+</p>
+
+<p align="center">
+  <b>No screenshots, only live demos.</b> Each project on the site runs a small working sketch of what it does.
+  <br/><br/>
+  <a href="https://utkarshkumarnigam-lab.github.io">
+    <img src="https://img.shields.io/badge/Visit_the_portfolio_→-f2f2f2?style=for-the-badge&labelColor=0a0a0a" alt="Visit the portfolio" />
+  </a>
+</p>
+
+<table width="100%">
+<tr>
+<td width="50%" align="center" valign="top">
+  <img src="assets/portfolio/viz-nyayasetu.gif" width="100%" alt="NyayaSetu sketch: an animated 0–100 attention score built from six factor bars" />
+  <br/><sub><b>NyayaSetu</b>: explainable 0–100 case-attention score</sub>
+</td>
+<td width="50%" align="center" valign="top">
+  <img src="assets/portfolio/viz-luka.gif" width="100%" alt="LUKA sketch: a regression line fitting itself to points via gradient descent" />
+  <br/><sub><b>LUKA</b>: real gradient descent, fitting frame by frame</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+  <img src="assets/portfolio/viz-aiki.gif" width="100%" alt="AIKI sketch: a tiny endless runner playing itself" />
+  <br/><sub><b>AIKI</b>: a tiny runner you can play on the page</sub>
+</td>
+<td width="50%" align="center" valign="top">
+  <img src="assets/portfolio/viz-usua.gif" width="100%" alt="Usua sketch: a looping chat with a typing indicator" />
+  <br/><sub><b>Usua</b>: chat demo, with the API key kept server-side</sub>
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="assets/portfolio/terminal.gif" width="80%" alt="Portfolio terminal: typing whoami, projects and sudo hire utkarsh" />
+  <br/><sub>There's a working terminal too. Try <code>sudo hire utkarsh</code>.</sub>
+</p>
 
 ---
 
@@ -114,7 +164,7 @@ A fast-paced, neon-themed endless runner built with React and the Web Audio API 
 <img src="https://img.shields.io/badge/Web%20Audio%20API-00d9ff?style=flat-square" />
 
 [![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/utkarshkumarnigam-lab/AIKI)
-[![Live](https://img.shields.io/badge/Play%20Now-00d9ff?style=for-the-badge&logo=vercel&logoColor=black)](https://aiki-two.vercel.app)
+[![Live](https://img.shields.io/badge/Play%20Now-00d9ff?style=for-the-badge&logo=vercel&logoColor=black)](https://aiki-three.vercel.app)
 
 </td>
 </tr>
