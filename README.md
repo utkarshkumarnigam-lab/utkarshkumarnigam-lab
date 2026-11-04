@@ -5,20 +5,13 @@
   <img src="assets/portfolio/hero.gif" width="100%" alt="ASCII wave field rippling around the cursor behind the name Utkarsh Kumar Nigam" />
 </a>
 
-<h1>Utkarsh Kumar Nigam</h1>
-
-<code>AI ENGINEER · GENERATIVE &amp; AGENTIC AI · FULL-STACK</code>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com/?lines=building+generative+AI+applications;exploring+agentic+AI+systems;shipping+full-stack+AI+apps;B.Tech+CSE+(AI)+%40+Parul+University&font=JetBrains%20Mono&center=true&width=520&height=28&color=8F8F8F&vCenter=true&size=16&pause=1200" alt="Typing text" />
-
-<br/><br/>
-
-<a href="https://utkarshkumarnigam-lab.github.io"><img src="https://img.shields.io/badge/portfolio_↗-f2f2f2?style=for-the-badge" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/utkarshkumarnigam/"><img src="https://img.shields.io/badge/linkedin-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:utkarshkumarnigam@gmail.com"><img src="https://img.shields.io/badge/email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://utkarshkumarnigam-lab.github.io/Utkarsh_Kumar_Nigam_Resume.pdf"><img src="https://img.shields.io/badge/résumé.pdf-0a0a0a?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Résumé" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=%24+whoami+%E2%86%92+AI+Engineer;%24+building+generative+AI+applications;%24+exploring+agentic+AI+systems;%24+B.Tech+CSE+(AI)+%40+Parul+University&font=JetBrains%20Mono&center=true&width=600&height=26&color=8F8F8F&vCenter=true&size=15&pause=1400" alt="Typing text" /><br/>
+  <a href="https://utkarshkumarnigam-lab.github.io"><img src="https://img.shields.io/badge/portfolio_↗-f2f2f2?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/utkarshkumarnigam/"><img src="https://img.shields.io/badge/linkedin-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:utkarshkumarnigam@gmail.com"><img src="https://img.shields.io/badge/email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://utkarshkumarnigam-lab.github.io/Utkarsh_Kumar_Nigam_Resume.pdf"><img src="https://img.shields.io/badge/résumé.pdf-0a0a0a?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Résumé" /></a>
+</p>
 
 </div>
 
@@ -198,9 +191,24 @@ A ChatGPT-style chat client for Google Gemini. A small Node.js server proxies re
 
 <br/>
 
+<!-- ============ RUNTIME LOG ============ -->
+<h2 align="center">Runtime log</h2>
+<p align="center"><code>[05] — tail -f /dev/life</code></p>
+
+<table align="center">
+<tr>
+<td align="center" valign="top"><img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/200.gif" height="150" alt="Cat typing furiously on a laptop" /><br/><sub><code>fixing the bug I wrote 5 min ago</code></sub></td>
+<td align="center" valign="top"><img src="https://media.giphy.com/media/4FQMuOKR6zQRO/200.gif" height="150" alt="Retro LOADING screen" /><br/><sub><code>npm install</code></sub></td>
+<td align="center" valign="top"><img src="https://media.giphy.com/media/1C8bHHJturSx2/200.gif" height="150" alt="Pixel-art coder at a computer" /><br/><sub><code>when the build finally passes</code></sub></td>
+<td align="center" valign="top"><img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/200.gif" height="150" alt="Cat typing on a laptop" /><br/><sub><code>prompting the LLM, again</code></sub></td>
+</tr>
+</table>
+
+<br/>
+
 <!-- ============ CONTRIBUTIONS ============ -->
 <h2 align="center">Contributions</h2>
-<p align="center"><code>[05] — git log --graph</code></p>
+<p align="center"><code>[06] — git log --graph</code></p>
 
 <p align="center">
 <picture>
