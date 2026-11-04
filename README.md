@@ -82,11 +82,11 @@
     <td width="60%" valign="top" style="border: none;">
       <br/>
       <ul>
-        <li>🎓 Pursuing <b>B.Tech in Computer Science &amp; Engineering (AI)</b> at <b>Parul University</b> (2025 – 2029).</li>
-        <li>💼 <b>AI Intern</b> at <b>InternVision Technology Pvt. Ltd.</b>, working on <b>Generative AI &amp; Agentic AI</b> projects.</li>
-        <li>⚖️ Built <b>NyayaSetu</b>, an AI-driven judicial operations platform with OCR, semantic search and explainable analytics.</li>
-        <li>🏆 Participated in <b>Smart India Hackathon (SIH) 2026</b>.</li>
-        <li>🌱 Currently exploring <b>LLMs, AI agents and intelligent systems</b>.</li>
+        <li>Pursuing <b>B.Tech in Computer Science &amp; Engineering (AI)</b> at <b>Parul University</b> (2025 – 2029).</li>
+        <li><b>AI Intern</b> at <b>InternVision Technology Pvt. Ltd.</b>, working on <b>Generative AI &amp; Agentic AI</b> projects.</li>
+        <li>Built <b>NyayaSetu</b>, an AI-driven judicial operations platform with OCR, semantic search and explainable analytics.</li>
+        <li>Participated in <b>Smart India Hackathon (SIH) 2026</b>.</li>
+        <li>Currently exploring <b>LLMs, AI agents and intelligent systems</b>.</li>
       </ul>
     </td>
     <td width="40%" valign="top" style="border: none;">
