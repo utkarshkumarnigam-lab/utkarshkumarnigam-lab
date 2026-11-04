@@ -1,85 +1,36 @@
-<!-- Header -->
-<table align="center" style="border: none;">
+<!-- ============ HEADER ============ -->
+<div align="center">
+
+<a href="https://utkarshkumarnigam-lab.github.io">
+  <img src="assets/portfolio/hero.gif" width="100%" alt="ASCII wave field rippling around the cursor behind the name Utkarsh Kumar Nigam" />
+</a>
+
+<h1>Utkarsh Kumar Nigam</h1>
+
+<code>AI ENGINEER · GENERATIVE &amp; AGENTIC AI · FULL-STACK</code>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com/?lines=building+generative+AI+applications;exploring+agentic+AI+systems;shipping+full-stack+AI+apps;B.Tech+CSE+(AI)+%40+Parul+University&font=JetBrains%20Mono&center=true&width=520&height=28&color=8F8F8F&vCenter=true&size=16&pause=1200" alt="Typing text" />
+
+<br/><br/>
+
+<a href="https://utkarshkumarnigam-lab.github.io"><img src="https://img.shields.io/badge/portfolio_↗-f2f2f2?style=for-the-badge" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/utkarshkumarnigam/"><img src="https://img.shields.io/badge/linkedin-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:utkarshkumarnigam@gmail.com"><img src="https://img.shields.io/badge/email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://utkarshkumarnigam-lab.github.io/Utkarsh_Kumar_Nigam_Resume.pdf"><img src="https://img.shields.io/badge/résumé.pdf-0a0a0a?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Résumé" /></a>
+
+</div>
+
+<br/>
+
+<!-- ============ ABOUT ============ -->
+<h2 align="center">About</h2>
+<p align="center"><code>[01] — whoami</code></p>
+
+<table align="center">
   <tr>
-    <td width="65%" valign="middle" style="border: none;">
-      <h1>Hi there, I'm <span style="color: #00d9ff;">Utkarsh Kumar Nigam</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Wave"></h1>
-      <h3><i>AI Engineer &bull; Generative AI &amp; Agentic AI Builder &bull; Full-Stack Developer</i></h3>
-      <img src="https://readme-typing-svg.demolab.com/?lines=Building+Generative+AI+Applications;Exploring+Agentic+AI+Systems;Crafting+AI-Powered+Web+Apps;B.Tech+CSE+(AI)+%40+Parul+University&font=Fira%20Code&center=false&width=500&height=30&color=00d9ff&vCenter=true&size=20" alt="Typing SVG" />
-      <br/><br/>
-      <a href="https://www.linkedin.com/in/utkarshkumarnigam/">
-        <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-      </a>
-      <a href="mailto:utkarshkumarnigam@gmail.com">
-        <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-      </a>
-      <a href="https://github.com/utkarshkumarnigam-lab">
-        <img src="https://img.shields.io/badge/Follow_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-      </a>
-      <a href="https://utkarshkumarnigam-lab.github.io">
-        <img src="https://img.shields.io/badge/Portfolio-f2f2f2?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" />
-      </a>
-    </td>
-    <td width="35%" valign="middle" align="center" style="border: none;">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius:12px;" alt="Coding gif" />
-    </td>
-  </tr>
-</table>
-
----
-
-<!-- Portfolio showcase -->
-<h2 align="center">🌐 My Portfolio</h2>
-
-<p align="center">
-  <a href="https://utkarshkumarnigam-lab.github.io">
-    <img src="assets/portfolio/hero.gif" width="100%" alt="Portfolio hero: an ASCII wave field that ripples around the cursor, behind the name Utkarsh Kumar Nigam" />
-  </a>
-</p>
-
-<p align="center">
-  <b>No screenshots, only live demos.</b> Each project on the site runs a small working sketch of what it does.
-  <br/><br/>
-  <a href="https://utkarshkumarnigam-lab.github.io">
-    <img src="https://img.shields.io/badge/Visit_the_portfolio_→-f2f2f2?style=for-the-badge&labelColor=0a0a0a" alt="Visit the portfolio" />
-  </a>
-</p>
-
-<table width="100%">
-<tr>
-<td width="50%" align="center" valign="top">
-  <img src="assets/portfolio/viz-nyayasetu.gif" width="100%" alt="NyayaSetu sketch: an animated 0–100 attention score built from six factor bars" />
-  <br/><sub><b>NyayaSetu</b>: explainable 0–100 case-attention score</sub>
-</td>
-<td width="50%" align="center" valign="top">
-  <img src="assets/portfolio/viz-luka.gif" width="100%" alt="LUKA sketch: a regression line fitting itself to points via gradient descent" />
-  <br/><sub><b>LUKA</b>: real gradient descent, fitting frame by frame</sub>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center" valign="top">
-  <img src="assets/portfolio/viz-aiki.gif" width="100%" alt="AIKI sketch: a tiny endless runner playing itself" />
-  <br/><sub><b>AIKI</b>: a tiny runner you can play on the page</sub>
-</td>
-<td width="50%" align="center" valign="top">
-  <img src="assets/portfolio/viz-usua.gif" width="100%" alt="Usua sketch: a looping chat with a typing indicator" />
-  <br/><sub><b>Usua</b>: chat demo, with the API key kept server-side</sub>
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <img src="assets/portfolio/terminal.gif" width="80%" alt="Portfolio terminal: typing whoami, projects and sudo hire utkarsh" />
-  <br/><sub>There's a working terminal too. Try <code>sudo hire utkarsh</code>.</sub>
-</p>
-
----
-
-<!-- About Me -->
-<h2 align="center">About Me</h2>
-
-<table align="center" style="border: none;">
-  <tr>
-    <td width="60%" valign="top" style="border: none;">
+    <td width="60%" valign="top">
       <br/>
       <ul>
         <li>Pursuing <b>B.Tech in Computer Science &amp; Engineering (AI)</b> at <b>Parul University</b> (2025 – 2029).</li>
@@ -88,122 +39,182 @@
         <li>Participated in <b>Smart India Hackathon (SIH) 2026</b>.</li>
         <li>Currently exploring <b>LLMs, AI agents and intelligent systems</b>.</li>
       </ul>
+      <br/>
+      <table>
+        <tr><td><code>location</code></td><td>Vadodara, Gujarat, India</td></tr>
+        <tr><td><code>focus</code></td><td>LLMs · agents · RAG · full-stack AI apps</td></tr>
+        <tr><td><code>looking for</code></td><td>AI/ML or software engineering internships</td></tr>
+      </table>
     </td>
-    <td width="40%" valign="top" style="border: none;">
-      <div align="center">
-        <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="90%" style="border-radius:10px;" alt="Coding Gif" />
-      </div>
+    <td width="40%" valign="top" align="center">
+      <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" alt="Cartoon of a person typing on a retro computer" />
+      <br/><sub><code>actual footage of me at 2am</code></sub>
     </td>
   </tr>
 </table>
 
----
+<br/>
 
-<!-- Featured Projects -->
-<h2 align="center">Featured Projects</h2>
+<!-- ============ PORTFOLIO ============ -->
+<h2 align="center">Portfolio</h2>
+<p align="center"><code>[02] — open https://utkarshkumarnigam-lab.github.io</code></p>
+
+<p align="center">
+  <b>No screenshots, only live demos.</b> Each project on the site runs a small working sketch of what it does.
+</p>
+
+<table width="100%">
+<tr>
+<td width="50%" align="center" valign="top">
+  <img src="assets/portfolio/viz-luka.gif" width="100%" alt="LUKA sketch: a regression line fitting itself to points via gradient descent" />
+  <br/><sub><code>fig.01</code> LUKA: gradient descent, frame by frame</sub>
+</td>
+<td width="50%" align="center" valign="top">
+  <img src="assets/portfolio/viz-aiki.gif" width="100%" alt="AIKI sketch: a tiny endless runner playing itself" />
+  <br/><sub><code>fig.02</code> AIKI: a tiny runner you can play on the page</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+  <img src="assets/portfolio/viz-usua.gif" width="100%" alt="Usua sketch: a looping chat with a typing indicator" />
+  <br/><sub><code>fig.03</code> Usua: chat demo, with the API key kept server-side</sub>
+</td>
+<td width="50%" align="center" valign="top">
+  <img src="assets/portfolio/terminal.gif" width="100%" alt="Portfolio terminal: typing whoami, projects and sudo hire utkarsh" />
+  <br/><sub><code>fig.04</code> A working terminal. Try <code>sudo hire utkarsh</code></sub>
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://utkarshkumarnigam-lab.github.io"><img src="https://img.shields.io/badge/visit_the_portfolio_→-0a0a0a?style=for-the-badge" alt="Visit the portfolio" /></a>
+</p>
+
+<br/>
+
+<!-- ============ PROJECTS ============ -->
+<h2 align="center">Selected work</h2>
+<p align="center"><code>[03] — ls ./projects</code></p>
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### ⚖️ NyayaSetu
-**AI-Driven Judicial Operations Platform**
+### NyayaSetu
+<code>aug 2026 · SIH PS 1282</code>
 
-An AI-assisted platform for undertrial case management — OCR-based document extraction, legal document intelligence, semantic search and explainable case-attention scoring to support data-driven judicial workflows.
+AI-driven judicial operations platform. It helps court and prison staff see which undertrial cases need attention, using a 0–100 score from six explainable factors, OCR on FIRs and charge sheets, and semantic search with cited answers.
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/OCR-00d9ff?style=flat-square" />
+![](https://img.shields.io/badge/python-1a1a1a?style=flat-square&logo=python&logoColor=white)
+![](https://img.shields.io/badge/fastapi-1a1a1a?style=flat-square&logo=fastapi&logoColor=white)
+![](https://img.shields.io/badge/react-1a1a1a?style=flat-square&logo=react&logoColor=white)
+![](https://img.shields.io/badge/typescript-1a1a1a?style=flat-square&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/qdrant-1a1a1a?style=flat-square)
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/utkarshkumarnigam-lab/NyayaSetu)
+[![source](https://img.shields.io/badge/source_↗-f2f2f2?style=for-the-badge&logo=github&logoColor=0a0a0a)](https://github.com/utkarshkumarnigam-lab/NyayaSetu)
 
 </td>
 <td width="50%" valign="top">
 
-### 📊 LUKA — DataSense AI
-**Interactive Data Science Learning Platform**
+### LUKA: DataSense AI
+<code>jun 2026 · live</code>
 
-A client-side learning platform with an AI mentor, structured modules and a live ML playground — train models, tune hyperparameters and watch loss curves update in real time.
+A data science learning app that runs in the browser. Models train one frame at a time, so you can watch the regression line move as the loss drops. It also has a curriculum, quizzes and an AI mentor.
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Machine%20Learning-00d9ff?style=flat-square" />
-<img src="https://img.shields.io/badge/AI%20Mentor-00d9ff?style=flat-square" />
+![](https://img.shields.io/badge/javascript-1a1a1a?style=flat-square&logo=javascript&logoColor=white)
+![](https://img.shields.io/badge/chart.js-1a1a1a?style=flat-square&logo=chartdotjs&logoColor=white)
+![](https://img.shields.io/badge/gemini_api-1a1a1a?style=flat-square&logo=googlegemini&logoColor=white)
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/utkarshkumarnigam-lab/LUKA)
-[![Live](https://img.shields.io/badge/Live%20Demo-00d9ff?style=for-the-badge&logo=githubpages&logoColor=black)](https://utkarshkumarnigam-lab.github.io/LUKA/)
+[![source](https://img.shields.io/badge/source_↗-f2f2f2?style=for-the-badge&logo=github&logoColor=0a0a0a)](https://github.com/utkarshkumarnigam-lab/LUKA)
+[![live](https://img.shields.io/badge/try_it_↗-0a0a0a?style=for-the-badge)](https://utkarshkumarnigam-lab.github.io/LUKA/)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 💬 Usua
-**AI Chat Assistant**
+### AIKI
+<code>jul 2026 · playable</code>
 
-A ChatGPT-style conversational app powered by the Google Gemini API, with persistent chat history, markdown rendering and a Node.js backend with secure API-key handling.
+An endless runner in React with no canvas, no game engine and no audio files. Every obstacle is a DOM element, and all the music is synthesised live with Web Audio oscillators.
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Generative%20AI-00d9ff?style=flat-square" />
+![](https://img.shields.io/badge/react-1a1a1a?style=flat-square&logo=react&logoColor=white)
+![](https://img.shields.io/badge/vite-1a1a1a?style=flat-square&logo=vite&logoColor=white)
+![](https://img.shields.io/badge/web_audio_api-1a1a1a?style=flat-square)
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/utkarshkumarnigam-lab/Usua)
-[![Live](https://img.shields.io/badge/Live%20Demo-00d9ff?style=for-the-badge&logo=githubpages&logoColor=black)](https://utkarshkumarnigam-lab.github.io/Usua/)
+[![source](https://img.shields.io/badge/source_↗-f2f2f2?style=for-the-badge&logo=github&logoColor=0a0a0a)](https://github.com/utkarshkumarnigam-lab/AIKI)
+[![play](https://img.shields.io/badge/play_it_↗-0a0a0a?style=for-the-badge)](https://aiki-three.vercel.app)
 
 </td>
 <td width="50%" valign="top">
 
-### 🎮 AIKI
-**Cyberpunk Endless Runner Game**
+### Usua
+<code>jul 2026 · live</code>
 
-A fast-paced, neon-themed endless runner built with React and the Web Audio API — no game engine, no canvas, procedural sound, upgrades and achievements.
+A ChatGPT-style chat client for Google Gemini. A small Node.js server proxies requests so the API key never reaches the browser, and chats are cleaned up automatically after 12 days.
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-<img src="https://img.shields.io/badge/Web%20Audio%20API-00d9ff?style=flat-square" />
+![](https://img.shields.io/badge/node.js-1a1a1a?style=flat-square&logo=nodedotjs&logoColor=white)
+![](https://img.shields.io/badge/javascript-1a1a1a?style=flat-square&logo=javascript&logoColor=white)
+![](https://img.shields.io/badge/gemini_api-1a1a1a?style=flat-square&logo=googlegemini&logoColor=white)
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/utkarshkumarnigam-lab/AIKI)
-[![Live](https://img.shields.io/badge/Play%20Now-00d9ff?style=for-the-badge&logo=vercel&logoColor=black)](https://aiki-three.vercel.app)
+[![source](https://img.shields.io/badge/source_↗-f2f2f2?style=for-the-badge&logo=github&logoColor=0a0a0a)](https://github.com/utkarshkumarnigam-lab/Usua)
+[![live](https://img.shields.io/badge/try_it_↗-0a0a0a?style=for-the-badge)](https://utkarshkumarnigam-lab.github.io/Usua/)
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-<!-- Tech Stack -->
-<h2 align="center">🛠️ Tech Stack</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,html,css&perline=8" alt="Languages" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,vite,mongodb,docker,git,github,vercel&perline=9" alt="Frameworks and Tools" />
-</p>
+<!-- ============ STACK ============ -->
+<h2 align="center">Tools I use</h2>
+<p align="center"><code>[04] — cat stack.txt</code></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Generative%20AI-00d9ff?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Agentic%20AI-00d9ff?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLMs-00d9ff?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-00d9ff?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Semantic%20Search-00d9ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/python-0a0a0a?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/typescript-0a0a0a?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/java-0a0a0a?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/c++-0a0a0a?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/c-0a0a0a?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/sql-0a0a0a?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/fastapi-0a0a0a?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/node.js-0a0a0a?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-0a0a0a?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/vite-0a0a0a?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/mongodb-0a0a0a?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-0a0a0a?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-0a0a0a?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/vercel-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/generative_ai-f2f2f2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/agentic_ai-f2f2f2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/llms-f2f2f2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/rag-f2f2f2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/semantic_search-f2f2f2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/machine_learning-f2f2f2?style=for-the-badge" />
 </p>
 
----
+<br/>
 
-<!-- Contribution snake -->
+<!-- ============ CONTRIBUTIONS ============ -->
+<h2 align="center">Contributions</h2>
+<p align="center"><code>[05] — git log --graph</code></p>
+
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/utkarshkumarnigam-lab/utkarshkumarnigam-lab/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/utkarshkumarnigam-lab/utkarshkumarnigam-lab/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake game" src="https://raw.githubusercontent.com/utkarshkumarnigam-lab/utkarshkumarnigam-lab/output/github-contribution-grid-snake.svg" width="100%" />
+  <img alt="Contribution grid being eaten by a snake" src="https://raw.githubusercontent.com/utkarshkumarnigam-lab/utkarshkumarnigam-lab/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 </p>
 
----
+<br/>
 
+<!-- ============ FOOTER ============ -->
 <div align="center">
-  <b><i>"Turning ideas into intelligent systems, one commit at a time."</i></b>
+  <code>utkarsh@github:~$ echo "turning ideas into working software, one commit at a time"</code>
   <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=utkarshkumarnigam-lab&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=utkarshkumarnigam-lab&label=profile+views&color=0a0a0a&style=for-the-badge" alt="Profile views" />
 </div>
